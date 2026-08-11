@@ -1,5 +1,5 @@
 :root {
-  --font-display: "VT323", monospace;
+  --font-decorative: "VT323", monospace;
   --font-body: "Inter", sans-serif;
 
   --bg-color: rgb(250, 250, 250);
@@ -8,7 +8,7 @@
 
 h1,
 header {
-  font-family: var(--font-display);
+  font-family: var(--font-decorative);
 }
 body,
 p,
@@ -20,6 +20,11 @@ input {
 body {
   margin: 0;
   padding: 0;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+
   color: var(--fg-color);
   background: var(--bg-color);
   font-size: 16px;
@@ -32,6 +37,7 @@ header {
   background-color: var(--bg-color);
   /* border-bottom: 3px double var(--fg-color); */
   font-size: 1.2rem;
+  z-index: 10;
 }
 
 .classic-title {
@@ -42,26 +48,37 @@ header {
 
 .ruler-horizontal {
     height: 20px;
+    
   /* Low ticks */
   --ruler1-bdw: 1px;
   --ruler1-c: var(--fg-color);
   --ruler1-h: 8px;
   --ruler1-space: 5;
 
-  /* Tall ticks */
+  /* Medium ticks */
   --ruler2-bdw: 1px;
   --ruler2-c: var(--fg-color);
-  --ruler2-h: 20px;
-  --ruler2-space: 50;
+  --ruler2-h: 16px;
+  --ruler2-space: 25;
+
+  /* Tall ticks */
+  --ruler3-bdw: 1px;
+  --ruler3-c: var(--fg-color);
+  --ruler3-h: 20px;
+  --ruler3-space: 50;
 
   background-image:
     linear-gradient(90deg, var(--ruler1-c) 0 var(--ruler1-bdw), transparent 0),
-    linear-gradient(90deg, var(--ruler2-c) 0 var(--ruler2-bdw), transparent 0);
+    linear-gradient(90deg, var(--ruler2-c) 0 var(--ruler2-bdw), transparent 0),
+    linear-gradient(90deg, var(--ruler3-c) 0 var(--ruler3-bdw), transparent 0);
 
   background-repeat: repeat-x;
   background-size:
     calc(1px * var(--ruler1-space)) var(--ruler1-h),
-    calc(1px * var(--ruler2-space)) var(--ruler2-h);
+    calc(1px * var(--ruler2-space)) var(--ruler2-h),
+    calc(1px * var(--ruler3-space)) var(--ruler3-h);
+
+  transform: scaleX(-1) rotate(180deg);
 
   margin-top: 1rem;
   padding-bottom: 0.6rem;
@@ -83,18 +100,21 @@ main::before {
   left: 0;
   width: 20px;
   height: 100vh;
-  /* background: red; */
   z-index: 999;
   pointer-events: none;
 }
 
 main {
-  display: flex;
+  flex-grow: 1;
+  width: 100%;
+
+  display: grid;
+  grid-template-columns: auto minmax(min-content, 1000px) auto;
+  grid-template-rows: 40px 1fr 40px;
+  /* grid-auto-rows: minmax(40px, auto); */
+  
   position: relative;   /* required for ::after positioning */
   margin-inline: auto;  /* keep centered */
-  width: fit-content;   /* or your fixed/max width */
-  z-index: -1;
-  max-width: 1000px;
 }
 
 .double-border {
@@ -103,10 +123,12 @@ main {
   border: 3px double var(--fg-color);
   border-radius: 10px;
 }
-/* 
+
 .polka {
-  border-radius: 6px;
-  padding: 1rem;
+  /* border-radius: 6px; */
+  /* padding: 1rem; */
+  width:100vw;
+  height: 100%;
   background-image:
     radial-gradient(var(--fg-color) 30%, transparent 0),
     radial-gradient(var(--fg-color) 30%, transparent 0);
@@ -115,14 +137,22 @@ main {
     3px 3px;
   background-size: 6px 6px;
   background-color: #f5f4f0;
-} */
+}
 
 .content-container {
   min-height: 40vh;
   padding: 2rem;
-  border-left: 2px solid var(--fg-color);
-  border-right: 2px solid var(--fg-color);
-  /* border-radius: 10px; */
+  border: 1px solid var(--fg-color);
+}
+
+.content-top, .content-bottom {
+  border-left: 2px dotted gray;
+  border-right: 2px dotted gray;
+}
+
+.content-left, .content-right {
+  border-top: 2px dotted gray;
+  border-bottom: 2px dotted gray;
 }
 
 .main-nav {
