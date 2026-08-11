@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Varjokirjamessujen kotisivut
 domain: varjokirjamessut.github.io # if you want to force HTTPS, specify the domain without the http at the start
 url: "https://varjokirjamessut.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/kotisivut" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 
 defaults:
     - scope:
