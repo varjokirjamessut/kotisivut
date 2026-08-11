@@ -1,7 +1,8 @@
 <!doctype html>
-<html>
+<html lang="fi">
   <head>
-    <meta charset="utf-8" />
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{ 'assets/css/styles.css' | relative_url }}">
     <link rel="icon" type="image/png" href="{{ '/assets/images/favicon-96x96.png' | relative_url }}" sizes="96x96" />
@@ -9,26 +10,22 @@
     <link rel="shortcut icon" href="{{ '/assets/images/favicon.ico' | relative_url }}"/>
     <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/images/apple-touch-icon.png' | relative_url }}"/>
     <link rel="manifest" href="{{ '/assets/images/site.webmanifest' | relative_url }}"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=VT323&display=swap" rel="stylesheet">
     {% feed_meta %}
     {% seo %}
   </head>
   <body>
-    <div class="header-img-container">
-      {% if page.header-image %}
-      <img src="{{ '/assets/images/' | append: page.header-image | relative_url }}" class="header-img"/>
-      {% else %}
-      <img src="{{'/assets/images/varjis-banner.jpg' | relative_url}}" class="header-img"/>
-      {% endif %}
-    </div>
-    <div class="main-container">
-      <div class="double-border">
-        <div class="polka">
-          <div class="content-container">
-            {% include navigation.html %} 
-            {{ content }}
-          </div>
-        </div>
+    <header>
+      <div class="classic-title">C:\PROJEKTIT\VARJOKIRJAMESSUT -- Ver. 2026</div>
+      {% include navigation.html %}
+      <div class="ruler-horizontal"></div>
+    </header>
+    <main>
+      <div class="content-container">
+        {{ content }}
       </div>
-    </div>
+    </main>
   </body>
 </html>

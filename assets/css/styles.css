@@ -1,104 +1,174 @@
+:root {
+  --font-display: "VT323", monospace;
+  --font-body: "Inter", sans-serif;
 
-html {
-    font-size: clamp(18px,calc(0.8rem + 0.25vw),24px);
+  --bg-color: rgb(250, 250, 250);
+  --fg-color: rgb(38, 38, 38); 
+}
+
+h1,
+header {
+  font-family: var(--font-display);
+}
+body,
+p,
+button,
+input {
+  font-family: var(--font-body);
 }
 
 body {
-    margin: 0;
-    padding: 0;
-    color:rgb(38, 38, 38);
-    background: rgb(250, 250, 250);
-    font-family: 'Times New Roman', Times, serif;
+  margin: 0;
+  padding: 0;
+  color: var(--fg-color);
+  background: var(--bg-color);
+  font-size: 16px;
 }
 
-.main-container {
-    display: flex;
-    justify-content: center;
-    padding: 2rem;
-    border-top: 3px double rgb(38,38,38);
+header {
+  position: sticky;
+  top: 0;
+  padding: 10px 16px 0 16px;
+  background-color: var(--bg-color);
+  /* border-bottom: 3px double var(--fg-color); */
+  font-size: 1.2rem;
+}
+
+.classic-title {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 1rem;
+}
+
+.ruler-horizontal {
+    height: 20px;
+  /* Low ticks */
+  --ruler1-bdw: 1px;
+  --ruler1-c: var(--fg-color);
+  --ruler1-h: 8px;
+  --ruler1-space: 5;
+
+  /* Tall ticks */
+  --ruler2-bdw: 1px;
+  --ruler2-c: var(--fg-color);
+  --ruler2-h: 20px;
+  --ruler2-space: 50;
+
+  background-image:
+    linear-gradient(90deg, var(--ruler1-c) 0 var(--ruler1-bdw), transparent 0),
+    linear-gradient(90deg, var(--ruler2-c) 0 var(--ruler2-bdw), transparent 0);
+
+  background-repeat: repeat-x;
+  background-size:
+    calc(1px * var(--ruler1-space)) var(--ruler1-h),
+    calc(1px * var(--ruler2-space)) var(--ruler2-h);
+
+  margin-top: 1rem;
+  padding-bottom: 0.6rem;
+  border-top: 1px solid var(--fg-color);
+  border-bottom: 1px solid var(--fg-color);
+}
+
+.ruler-vertical {
+  position: static;
+  height: 100vh;
+  width: 20px;
+  background-color: red;
+}
+
+main::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 20px;
+  height: 100vh;
+  /* background: red; */
+  z-index: 999;
+  pointer-events: none;
+}
+
+main {
+  display: flex;
+  position: relative;   /* required for ::after positioning */
+  margin-inline: auto;  /* keep centered */
+  width: fit-content;   /* or your fixed/max width */
+  z-index: -1;
+  max-width: 1000px;
 }
 
 .double-border {
-    width: 80vw;
-    max-width: 1000px;
-    border: 3px double rgb(38, 38, 38);
-    border-radius: 10px;
+  width: 80vw;
+  max-width: 1000px;
+  border: 3px double var(--fg-color);
+  border-radius: 10px;
 }
-
+/* 
 .polka {
-    border-radius: 6px;
-    padding: 1rem;
-    background-image: 
-        radial-gradient(rgb(38, 38, 38) 30%, transparent 0),
-        radial-gradient(rgb(38, 38, 38) 30%, transparent 0);
-    background-position: 0px 0px, 3px 3px;
-    background-size: 6px 6px;
-    background-color: #f5f4f0;
-}
+  border-radius: 6px;
+  padding: 1rem;
+  background-image:
+    radial-gradient(var(--fg-color) 30%, transparent 0),
+    radial-gradient(var(--fg-color) 30%, transparent 0);
+  background-position:
+    0px 0px,
+    3px 3px;
+  background-size: 6px 6px;
+  background-color: #f5f4f0;
+} */
 
 .content-container {
-    min-height: 40vh;
-    padding: 2rem;
-    border: 2px solid rgb(38, 38, 38);
-    border-radius: 10px;
-    background: #f5f4f0;
-    font-size: 1.2rem;
+  min-height: 40vh;
+  padding: 2rem;
+  border-left: 2px solid var(--fg-color);
+  border-right: 2px solid var(--fg-color);
+  /* border-radius: 10px; */
 }
 
 .main-nav {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
 }
 
 .main-nav div {
-    padding: 4px 12px;
-    border: 1px solid rgb(38, 38, 38);
-    border-radius: 12px;
-    box-shadow: 
-        1px 1px 0 0px rgb(38, 38, 38);
+  padding: 4px 12px;
+  border: 1px solid var(--fg-color);
+  border-radius: 12px;
+  box-shadow: 1px 1px 0 0px var(--fg-color);
 }
 
 .current {
-    background-color: #f3edd9;
-    box-shadow: 1px 1px 0 0px inset rgb(38, 38, 38) !important;
+  background-color: #f3edd9;
+  box-shadow: 1px 1px 0 0px inset var(--fg-color) !important;
 }
 
 .main-nav div:hover {
-    background-color: #f3edd9;
-    box-shadow: 1px 1px 0 0px inset rgb(38, 38, 38);
+  background-color: #f3edd9;
+  box-shadow: 1px 1px 0 0px inset var(--fg-color);
 }
 
 .main-nav a {
-    text-decoration: none;
-    background-color: rgb(250, 250, 250);
+  text-decoration: none;
+  background-color: var(--bg-color);
 }
 
 .main-nav a:hover {
-    color:rgb(38, 38, 38);
+  color: var(--fg-color);
 }
 
-.header-img-container {
-    height: 350px;
-    overflow: hidden;
-    position: relative;
-}
-
-.header-img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: center;
+h1 {
+  font-size: 2.6em;
 }
 
 a {
-    color: rgb(38, 38, 38);
+  color: var(--fg-color);
 }
 
 a:hover {
-    color:rgb(92, 92, 92);
+  color: rgb(92, 92, 92);
 }
 
 :is(h1, h2, h3, h4, h5, h6) {
-    color: rgb(52, 52, 52)
+  color: rgb(52, 52, 52);
 }
