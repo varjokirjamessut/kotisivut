@@ -4,6 +4,7 @@
 
   --bg-color: rgb(250, 250, 250);
   --fg-color: rgb(38, 38, 38);
+  --fg-faded-color: rgb(102,102,102);
   --hl-color: rgb(243, 237, 217);
 }
 
@@ -18,6 +19,52 @@ button,
 input {
   font-family: var(--font-body);
 }
+
+h1 {
+  font-size: 3.6em;
+  margin-bottom: 0.4em;
+}
+
+h2 {
+  margin-top: 2em;
+}
+
+a {
+  color: var(--fg-color);
+}
+
+a:hover {
+  color: var(--fg-faded-color);
+}
+
+blockquote {
+  background-color: var(--bg-color);
+  padding: 8px 0 12px 24px;
+  margin: 0;
+  
+  & p {
+    margin: 0;
+  }
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+
+  & li {
+    border-bottom: 1px solid var(--fg-color);
+    padding: 4px 2px;
+  }
+
+  & li:last-child {
+    border: 0;
+  }
+
+  & li:nth-child(even) {
+    background-color: var(--bg-color);
+  }
+}
+
 
 body {
   margin: 0;
@@ -50,92 +97,6 @@ header {
   padding-bottom: 1rem;
 }
 
-.ruler-horizontal {
-  height: 20px;
-
-  /* Low ticks */
-  --ruler1-bdw: 1px;
-  --ruler1-c: var(--fg-color);
-  --ruler1-h: 8px;
-  --ruler1-space: 5;
-
-  /* Medium ticks */
-  --ruler2-bdw: 1px;
-  --ruler2-c: var(--fg-color);
-  --ruler2-h: 16px;
-  --ruler2-space: 25;
-
-  /* Tall ticks */
-  --ruler3-bdw: 1px;
-  --ruler3-c: var(--fg-color);
-  --ruler3-h: 20px;
-  --ruler3-space: 50;
-
-  background-image:
-    linear-gradient(90deg, var(--ruler1-c) 0 var(--ruler1-bdw), transparent 0),
-    linear-gradient(90deg, var(--ruler2-c) 0 var(--ruler2-bdw), transparent 0),
-    linear-gradient(90deg, var(--ruler3-c) 0 var(--ruler3-bdw), transparent 0);
-
-  background-repeat: repeat-x;
-  background-size:
-    calc(1px * var(--ruler1-space)) var(--ruler1-h),
-    calc(1px * var(--ruler2-space)) var(--ruler2-h),
-    calc(1px * var(--ruler3-space)) var(--ruler3-h);
-
-  transform: scaleX(-1) rotate(180deg);
-
-  margin-top: 1rem;
-  padding-bottom: 0.6rem;
-  border-top: 1px solid var(--fg-color);
-  border-bottom: 1px solid var(--fg-color);
-}
-
-.ruler-vertical {
-  position: static;
-  height: 100vh;
-  width: 20px;
-  background-color: red;
-}
-
-main {
-  flex-grow: 1;
-  width: 100%;
-
-  display: grid;
-  grid-template-columns: auto minmax(min-content, 1000px) auto;
-  grid-template-rows: 40px 1fr 40px;
-  /* grid-auto-rows: minmax(40px, auto); */
-
-  position: relative; /* required for ::after positioning */
-  margin-inline: auto; /* keep centered */
-}
-
-.double-border {
-  width: 80vw;
-  max-width: 1000px;
-  border: 3px double var(--fg-color);
-  border-radius: 10px;
-}
-
-.content-container {
-  min-height: 40vh;
-  padding: 2rem;
-  border: 1px solid var(--fg-color);
-}
-
-.content-top,
-.content-bottom {
-  border-left: 2px dotted gray;
-  border-right: 2px dotted gray;
-}
-
-.content-left,
-.content-right {
-  border-top: 2px dotted gray;
-  border-bottom: 2px dotted gray;
-}
-
-/* -------------------------------- */
 
 nav {
   display: flex;
@@ -218,7 +179,78 @@ nav {
   color: var(--fg-color);
 }
 
-@media (max-width: 768px) {
+.ruler-horizontal {
+  height: 20px;
+
+  /* Low ticks */
+  --ruler1-bdw: 1px;
+  --ruler1-c: var(--fg-color);
+  --ruler1-h: 8px;
+  --ruler1-space: 5;
+
+  /* Medium ticks */
+  --ruler2-bdw: 1px;
+  --ruler2-c: var(--fg-color);
+  --ruler2-h: 14px;
+  --ruler2-space: 25;
+
+  /* Tall ticks */
+  --ruler3-bdw: 1px;
+  --ruler3-c: var(--fg-color);
+  --ruler3-h: 20px;
+  --ruler3-space: 50;
+
+  background-image:
+    linear-gradient(90deg, var(--ruler1-c) 0 var(--ruler1-bdw), transparent 0),
+    linear-gradient(90deg, var(--ruler2-c) 0 var(--ruler2-bdw), transparent 0),
+    linear-gradient(90deg, var(--ruler3-c) 0 var(--ruler3-bdw), transparent 0);
+
+  background-repeat: repeat-x;
+  background-size:
+    calc(1px * var(--ruler1-space)) var(--ruler1-h),
+    calc(1px * var(--ruler2-space)) var(--ruler2-h),
+    calc(1px * var(--ruler3-space)) var(--ruler3-h);
+
+  transform: scaleX(-1) rotate(180deg);
+
+  margin-top: 1rem;
+  padding-bottom: 0.6rem;
+  border-top: 1px solid var(--fg-color);
+  border-bottom: 1px solid var(--fg-color);
+}
+
+main {
+  flex-grow: 1;
+  width: 100%;
+
+  display: grid;
+  grid-template-columns: auto minmax(min-content, 1000px) auto;
+  grid-template-rows: 40px 1fr 40px;
+
+  position: relative;
+  margin-inline: auto;
+}
+
+.content-top,
+.content-bottom {
+  border-left: 2px dotted gray;
+  border-right: 2px dotted gray;
+}
+
+.content-left,
+.content-right {
+  border-top: 2px dotted gray;
+  border-bottom: 2px dotted gray;
+}
+
+.content-container {
+  min-height: 40vh;
+  padding: 0 2rem 2rem 2rem;
+  border: 1px solid var(--fg-color);
+  background-color: white;
+}
+
+@media (max-width: 767px) {
   main {
     grid-template-rows: 0px 1fr 20px;
   }
@@ -240,6 +272,10 @@ nav {
   .content-container {
     border-top: 0;
   }
+
+  h1 {
+    font-size: 2.6em;
+  }
 }
 
 @media (min-width: 768px) {
@@ -258,16 +294,4 @@ nav {
     align-items: flex-start;
     flex-wrap: wrap;
   }
-}
-
-h1 {
-  font-size: 2.6em;
-}
-
-a {
-  color: var(--fg-color);
-}
-
-a:hover {
-  color: rgb(92, 92, 92);
 }
