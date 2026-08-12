@@ -3,7 +3,8 @@
   --font-body: "Inter", sans-serif;
 
   --bg-color: rgb(250, 250, 250);
-  --fg-color: rgb(38, 38, 38); 
+  --fg-color: rgb(38, 38, 38);
+  --hl-color: rgb(243,237,217);
 }
 
 h1,
@@ -32,6 +33,8 @@ body {
 
 header {
   position: sticky;
+  display: flex;
+  flex-direction: column;
   top: 0;
   padding: 10px 16px 0 16px;
   background-color: var(--bg-color);
@@ -92,7 +95,7 @@ header {
   width: 20px;
   background-color: red;
 }
-
+/* 
 main::before {
   content: "";
   position: fixed;
@@ -102,7 +105,7 @@ main::before {
   height: 100vh;
   z-index: 999;
   pointer-events: none;
-}
+} */
 
 main {
   flex-grow: 1;
@@ -124,21 +127,6 @@ main {
   border-radius: 10px;
 }
 
-.polka {
-  /* border-radius: 6px; */
-  /* padding: 1rem; */
-  width:100vw;
-  height: 100%;
-  background-image:
-    radial-gradient(var(--fg-color) 30%, transparent 0),
-    radial-gradient(var(--fg-color) 30%, transparent 0);
-  background-position:
-    0px 0px,
-    3px 3px;
-  background-size: 6px 6px;
-  background-color: #f5f4f0;
-}
-
 .content-container {
   min-height: 40vh;
   padding: 2rem;
@@ -155,37 +143,103 @@ main {
   border-bottom: 2px dotted gray;
 }
 
-.main-nav {
+
+/* -------------------------------- */
+
+nav {
   display: flex;
+  flex-direction: column;
   flex-wrap: wrap;
-  gap: 10px;
+  align-self: end;
+  padding-right: 30px;
+  align-items: flex-end;
+
+  & label {
+    text-align: end;
+    padding: 4px 12px;
+    border: 1px solid var(--fg-color);
+    border-radius: 12px;
+    box-shadow: 1px 1px 0 0 var(--fg-color);
+  }
+
+  & label:hover {
+    background-color: var(--hl-color);
+    box-shadow: 1px 1px 0 0 inset var(--fg-color);
+  }
+
+
 }
 
-.main-nav div {
-  padding: 4px 12px;
-  border: 1px solid var(--fg-color);
-  border-radius: 12px;
-  box-shadow: 1px 1px 0 0px var(--fg-color);
+
+.main-nav-links {
+  text-align: center;
+
+  & div {
+    padding: 4px 12px;
+    border: 1px solid var(--fg-color);
+    border-radius: 12px;
+    box-shadow: 1px 1px 0 0 var(--fg-color);
+  }
+
+  & div:hover {
+    background-color: var(--hl-color);
+    box-shadow: 1px 1px 0 0 inset var(--fg-color);
+  }
+
+  & a {
+    padding: 0 6px;
+    text-decoration: none;
+    background-color: var(--bg-color);
+  }
+
+  & a:hover {
+    color: var(--fg-color);
+  }
+
+  & .current {
+    background-color: var(--hl-color);
+    box-shadow: 1px 1px 0 0 inset var(--fg-color);
+  }
 }
 
-.current {
-  background-color: #f3edd9;
-  box-shadow: 1px 1px 0 0px inset var(--fg-color) !important;
+nav {
+  input[type=checkbox] {
+    display:none;
+  }
+
+  .main-nav-links {
+    display:none;
+    margin:0;
+    padding:0;
+  }
 }
 
-.main-nav div:hover {
-  background-color: #f3edd9;
-  box-shadow: 1px 1px 0 0px inset var(--fg-color);
+.main-nav-toggle:checked ~ .main-nav-links {
+  display:flex;
+  flex-direction: column;
+  align-items: flex-end;
+
+  & a {
+    padding: 6px 0;
+  }
 }
 
-.main-nav a {
-  text-decoration: none;
-  background-color: var(--bg-color);
-}
-
-.main-nav a:hover {
+.main-nav-toggle:checked + label {
+  background-color: var(--hl-color);
+  box-shadow: 1px 1px 0 0 inset var(--fg-color);
   color: var(--fg-color);
 }
+
+@media (min-width: 768px) {
+    nav > input, label {
+        display: none;
+    }
+
+    .main-nav-links {
+      display: flex !important;
+    }
+}
+
 
 h1 {
   font-size: 2.6em;
@@ -197,8 +251,4 @@ a {
 
 a:hover {
   color: rgb(92, 92, 92);
-}
-
-:is(h1, h2, h3, h4, h5, h6) {
-  color: rgb(52, 52, 52);
 }

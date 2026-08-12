@@ -1,9 +1,13 @@
-<nav class="main-nav">
-  {% for item in site.data.navigation %}
+<nav>
+  <input type="checkbox" id="main-nav-toggle" class="main-nav-toggle">
+  <label for="main-nav-toggle" id="toggle-menu">Valikko</label>
+  <div class="main-nav-links">
+    {% for item in site.data.navigation %}
     <a href="{{ item.link | relative_url }}">
       <div {% if page.url == item.link %} class="current" {% endif %}>
-      {{ item.name }}
+        {{ item.name }}
       </div>
     </a>
-  {% endfor %}
+    {% endfor %}
+  </div>
 </nav>
