@@ -10,7 +10,7 @@ Ota yhteyttä sähköpostitse varjokirjamessut@riseup.net matalalla kynnyksellä
 
 ## Rauhanaseman (osoite Veturitori 3) saavutettavuustiedot
 
-Näytteilleasettajat ja ohjelma sijaitsevat Rauhanaseman salissa, jonne pääsee kulkuluiskaa pitkin talon Messukeskuksen puoleiselta sivulta (talon pohjoispuoli). Luiskan kulma on kymmenen (10) astetta. Salissa on kaksi wc-tilaa. Toisessa on suurempi wc-koppi, jonka ovet saa avattua 110 cm leveyteen. Siihen tilaan johtava oviaukko on leveydeltään 82 cm. Wc-istuimessa on tukikaiteet. Kopista löytyy myös kokoontaitettava hoitopöytä. Alakertaan saunatuvalle pääsee ulkokautta kiinteää betoniluiskaa pitkin talon itäpuolelta. Liuska on pitkä sekä jyrkkä ja epätasainen. Kellarikerroksessa on yksi sukupuolineutraali vessa, jonne ei pääse pyörätuolilla
+Näytteilleasettajat ja vegaaninen kahvila sijaitsevat Rauhanaseman salissa, jonne pääsee kulkuluiskaa pitkin talon Messukeskuksen puoleiselta sivulta (talon pohjoispuoli). Luiskan kulma on kymmenen (10) astetta. Salissa on kaksi wc-tilaa. Toisessa on suurempi wc-koppi, jonka ovet saa avattua 110 cm leveyteen. Siihen tilaan johtava oviaukko on leveydeltään 82 cm. Wc-istuimessa on tukikaiteet. Kopista löytyy myös kokoontaitettava hoitopöytä.
 
 ## Naapuruustalo Pasilan (osoite Topparikuja 2) saavutettavuustiedot
 
