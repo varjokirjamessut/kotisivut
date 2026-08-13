@@ -4,22 +4,21 @@ title: Saavutettavuus
 
 # Saavutettavuus
 
-Alta löydät tapahtuman [turvallisemman tilan periaatteet](#turvallisemman-tilan-periaatteet).
+Alta löydät myös tapahtuman turvallisemman tilan periaatteet.
 
 Ota yhteyttä sähköpostitse varjokirjamessut@riseup.net matalalla kynnyksellä, mikäli sinulla on kysyttävää tai tarvitset apua!
 
-## Rauhanaseman (osoite Veturitori 3) saavutettavuustiedot
+## Rauhanaseman saavutettavuustiedot
 
 Näytteilleasettajat ja ohjelma sijaitsevat Rauhanaseman salissa, jonne pääsee kulkuluiskaa pitkin talon Messukeskuksen puoleiselta sivulta (talon pohjoispuoli). Luiskan kulma on kymmenen (10) astetta. Salissa on kaksi wc-tilaa. Toisessa on suurempi wc-koppi, jonka ovet saa avattua 110 cm leveyteen. Siihen tilaan johtava oviaukko on leveydeltään 82 cm. Wc-istuimessa on tukikaiteet. Kopista löytyy myös kokoontaitettava hoitopöytä. Alakertaan saunatuvalle pääsee ulkokautta kiinteää betoniluiskaa pitkin talon itäpuolelta. Liuska on pitkä sekä jyrkkä ja epätasainen. Kellarikerroksessa on yksi sukupuolineutraali vessa, jonne ei pääse pyörätuolilla
-
-## Naapuruustalo Pasilan (osoite Topparikuja 2) saavutettavuustiedot
-
-Selvitämme vielä Naapuruustalon saavutettavuustietoja ja lisäämme ne tänne piakkoin. Naapuruustalo Pasilan omat yhteystiedot löydät myös [Naapuruustalon sivuilta](https://kalliola.fi/osallistu-toimintaamme/naapuruustalot-ja-kohtaamispaikat/naapuruustalo-pasila/).
 
 ## Pasilan kirjaston (osoite Kellosilta 9) saavuttettavuustiedot
 
 Kulkureitillä on yli 6 m pitkä luiska, jossa on välitasanne, jossa on käsijohteet toisella puolella. Sisäänkäynti erottuu selkeästi ja on valaistu. Sisäänkäynnin yläpuolella on katos. Sisäänkäynnin ovet erottuvat selkeästi. Oven ulkopuolella on riittävästi vapaata tilaa liikkumiselle esim. pyörätuolin kanssa. Ovi aukeaa avauspainikkeen avulla automaattisesti. Kirjastossa on esteetön wc kerroksessa 2, jonne on hissi. Toisen kerroksen auditorioon on pääsy pyörätuolilla.
 
+## Lymyn (osoite Pengerkatu 6) saavutettavuustiedot
+
+Lymyyn käydään sisään katutasosta alas viittä porrasta pitkin. Ulko-ovi on 79 cm leveä. Pieneen kylpyhuoneeseen noustaan kolmea porrasta pitkin. Kylpyhuoneen ovi on 64 cm leveä. Keittiön oven kohdalla on kolme cm korkea kynnys.
 
 
 
