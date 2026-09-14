@@ -24,7 +24,7 @@ Muistathan ottaa Varjokirjamessujen nettisivut sekä sosiaalisen median kanavat 
 
 [facebook.com/varjokirjamessut](https://facebook.com/varjokirjamessut)
 
-[instagram.com/varjikset](https://instagram.com/varjikset)
+[instagram.com/varjokirjamessut](https://instagram.com/varjokirjamessut)
 
 [youtube.com/@varjokirjamessut](https://youtube.com/@varjokirjamessut)
 
