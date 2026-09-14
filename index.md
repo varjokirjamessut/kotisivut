@@ -6,8 +6,6 @@ title: Varjokirjamessut
 
 Toivotamme sinut lämpimästi tervetulleeksi Helsingin Varjokirjamessuille, tuttavallisemmin Varjiksille, Pasilaan lokakuussa. Varjokirjamessut on vaihtoehtoinen kirjallisuustapahtuma, jossa käsitellään laajasti yhteiskunnallisia teemoja, kuten antifasismia, antimilitarismia, anarkismia, ilmasto- ja ympäristökysymyksiä, eläinten oikeuksia, tee-se-itse-kulttuuria, feminismiä, antirasismia ja queer-aiheita.
 
-Ensimmäiset Varjokirjamessut järjestettiin vuonna 2010 Rauhanasemalla yksipäiväisenä tapahtumana. Tapahtuma laajeni kaksipäiväiseksi vuonna 2015. Vuodesta 2021 alkaen Varjokirjamessuja on järjestetty hajautetusti eri tapahtumapaikoissa Pasilassa, vaikka itse kirjamyynti onkin tapahtunut joka vuosi Rauhanasemalla. Vuoden 2026 Varjokirjamessut ovat järjestyksessään seitsemännettoista.
-
 Tänä vuonna meillä on ilo järjestää Varjokirjamessut **kolmipäiväisenä tapahtumana perjantaista sunnuntaihin 23.–25. lokakuuta 2026.** Varjokirjamessut **järjestetään Rauhanasemalla** (Veturitori 3) ja **ohjelmaa on tänä vuonna lisäksi Pasilan kirjastolla** (Kellosilta 9) **sekä ensimmäistä kertaa Naapuruustalo Pasilassa** (Topparikuja 2).
 
 Rauhanasemalla sijaitsevat tapahtuman näytteilleasettajien pöydät, joilta löytyy kirjoja, sarjakuvia, zinejä, taideteoksia ja pamfletteja. Keskustelutilaisuudet ja muut ohjelmanumerot puolestaan järjestetään Pasilan kirjastolla sekä Naapuruustalolla.
