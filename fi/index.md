@@ -1,5 +1,8 @@
 ---
 title: Varjokirjamessut
+lang: fi
+translation_key: index
+permalink: /fi/
 ---
 
 # Helsingin Varjokirjamessut 23.-25.10.2026

@@ -1,9 +1,12 @@
 ---
-title: Shadow Bookfair
+title: Shadow Book Fair
+lang: en
+translation_key: index
+permalink: /en/
 layout: default-english
 ---
 
-# Shadow Bookfair 23.-25.10.2026
+# Shadow Book Fair 23.-25.10.2026
 
 Welcome to the Helsinki Varjokirjamessut (Shadow Book Fair) in Pasila in October! Varjokirjamessut is an alternative literary event that explores a wide range of social and political issues, including antifascism, antimilitarism, anarchism, climate and environmental issues, animal rights, DIY culture, feminism, antiracism, and queer topics.
 

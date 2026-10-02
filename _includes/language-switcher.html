@@ -1,0 +1,13 @@
+{% assign current_lang = page.lang | default: "fi" %}
+{% assign current_key = page.translation_key %}
+
+{% for candidate in site.pages %}
+    {% if candidate.translation_key == current_key
+        and candidate.lang != current_lang %}
+    <a aria-label="Language" href="{{ candidate.url | relative_url }}">
+        <div>
+        {{ candidate.lang | upcase }}
+        </div>
+    </a>
+    {% endif %}
+{% endfor %}

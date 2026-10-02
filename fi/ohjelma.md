@@ -1,5 +1,8 @@
 ---
 title: Ohjelma
+lang: fi
+translation_key: programme
+permalink: /fi/ohjelma
 ---
 
 # Ohjelma

@@ -1,5 +1,8 @@
 ---
 title: Arkisto
+lang: fi
+translation_key: archive
+permalink: /fi/arkisto
 ---
 
 # Arkisto

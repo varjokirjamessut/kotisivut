@@ -1,12 +1,15 @@
 ---
 title: Saavutettavuus
+lang: fi
+translation_key: accessibility
+permalink: /fi/saavutettavuus
 ---
 
 # Saavutettavuus
 
 Alta löydät tapahtuman [turvallisemman tilan periaatteet](#turvallisemman-tilan-periaatteet).
 
-Ota yhteyttä sähköpostitse varjokirjamessut@riseup.net matalalla kynnyksellä, mikäli sinulla on kysyttävää tai tarvitset apua!
+Ota yhteyttä sähköpostitse varjokirjamessut(at)riseup.net matalalla kynnyksellä, mikäli sinulla on kysyttävää tai tarvitset apua!
 
 ## Rauhanaseman (osoite Veturitori 3) saavutettavuustiedot
 

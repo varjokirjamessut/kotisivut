@@ -1,5 +1,8 @@
 ---
 title: Sijainti
+lang: fi
+translation_key: location
+permalink: /fi/sijainti
 ---
 
 # Sijainti

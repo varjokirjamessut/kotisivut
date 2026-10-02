@@ -1,0 +1,27 @@
+---
+layout: null
+permalink: /
+---
+
+<!doctype html>
+<html lang="fi">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="refresh" content="0; url={{ '/fi/' | relative_url }}">
+  <link rel="canonical" href="{{ '/fi/' | absolute_url }}">
+  <title>Varjokirjamessut</title>
+
+  <script>
+    const target = {{ '/fi/' | relative_url | jsonify }};
+    window.location.replace(
+      target + window.location.search + window.location.hash
+    );
+  </script>
+</head>
+<body>
+  <p>
+    Siirrytään suomenkieliselle sivulle…
+    <a href="{{ '/fi/' | relative_url }}">Jatka</a>
+  </p>
+</body>
+</html>

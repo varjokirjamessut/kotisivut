@@ -1,13 +1,25 @@
+{% assign lang = page.lang | default: "fi" %}
+{% assign nav_items = site.data.navigation[lang] %}
+
 <nav>
   <input type="checkbox" id="main-nav-toggle" class="main-nav-toggle">
-  <label for="main-nav-toggle" id="toggle-menu">Valikko</label>
+  <label for="main-nav-toggle" id="toggle-menu">
+    {% if lang == "en" %}
+      Menu
+    {% else %}
+      Valikko
+    {% endif %}
+  </label>
   <div class="main-nav-links">
-    {% for item in site.data.navigation %}
+    {% for item in nav_items %}
     <a href="{{ item.link | relative_url }}">
       <div {% if page.url == item.link %} class="current" {% endif %}>
         {{ item.name }}
       </div>
     </a>
     {% endfor %}
+    {% include language-switcher.html %}
   </div>
 </nav>
+
+

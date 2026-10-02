@@ -1,14 +1,27 @@
-- name: Varjokirjamessut
-  link: /
-- name: Ohjelma
-  link: /ohjelma.html
-- name: Näytteilleasettajat
-  link: /naytteilleasettajat.html
-- name: Sijainti
-  link: /sijainti.html
-- name: Saavutettavuus
-  link: /saavutettavuus.html
-- name: Arkisto
-  link: /arkisto.html
-- name: In English
-  link: /in-english.html
+fi:
+  - name: Varjokirjamessut
+    link: /fi/
+  - name: Ohjelma
+    link: /fi/ohjelma
+  - name: Näytteilleasettajat
+    link: /fi/naytteilleasettajat
+  - name: Sijainti
+    link: /fi/sijainti
+  - name: Saavutettavuus
+    link: /fi/saavutettavuus
+  - name: Arkisto
+    link: /fi/arkisto
+
+en:
+  - name: Shadow Book Fair
+    link: /en/
+  - name: Programme
+    link: /en/programme
+  - name: Exhibitors
+    link: /en/exhibitors
+  - name: Location
+    link: /en/location
+  - name: Accessibility
+    link: /en/accessibility
+  - name: Archive
+    link: /en/archive
