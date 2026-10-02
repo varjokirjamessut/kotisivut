@@ -4,6 +4,8 @@ title: Ohjelma
 
 # Ohjelma
 
+Alta löydät Varjokirjamessujen vuoden 2026 ohjelman. Ohjelma järjestetään varjisviikonloppuna pääasiassa Pasilan Naapuruustalolla, mutta lauantaina osa ohjelmasta pidetään myös Pasilan kirjastossa. Tuttuun tapaan osa ohjelmasta myös striimataan varjisten [YouTube-kanavalle](https://www.youtube.com/@varjokirjamessut).
+
 ## Perjantai 23.10.
 
 ### Naapuruustalo
