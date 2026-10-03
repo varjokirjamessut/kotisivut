@@ -23,9 +23,9 @@ Alta löydät Varjokirjamessujen vuoden 2026 ohjelman. Ohjelma järjestetään v
 
 - **12-12.45** Laura Salama: Lintulan loruja
 
-- **13-14.45** Kaide Kollektiivi: Kirjainten paino paperilla
+- **13-14.45** Kaide Kollektiivi: Kirjainten paino paperilla / The Weight of Letters on Paper - työpaja / workshop **FIN** + **ENG**
 
-- **15-16** Teatterin Uusi Alkukirjasto: Yhteiskunnallisten näytelmien lukupiiri
+- **15-16** Teatterin Uuden Alkukirjaston lukupiiri
 
 - **16.15-17** Junya Yimprasert: Bloodberries. Hidden Slavery in World's Happiest Nation **ENG**
 
@@ -41,7 +41,7 @@ Alta löydät Varjokirjamessujen vuoden 2026 ohjelman. Ohjelma järjestetään v
 
 - **12-12.45** Tiina Ollila & Helinä Ääri: Broilerin tarina
 
-- **13-13.45** Unne Nirhamo, Susi Nousiainen & Jussi Romppainen: Runouspaneeli
+- **13-13.45** Unne Nirhamo: ENTER INTER, Susi Nousiainen: Hiljaista vettä, Heikki Romppainen: Joutoseutu
 
 - **14-14.45** Maryam Abuzaid-Ryu: Kompastellen
 
