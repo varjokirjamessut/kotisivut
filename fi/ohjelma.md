@@ -15,7 +15,7 @@ Alta löydät Varjokirjamessujen vuoden 2026 ohjelman. Ohjelma järjestetään v
 
 - **19-20** Puoliuni Kustannus & Elbae Records: Veera Nivalainen, Daniil Nummi ja Kaisa Vahteristo – Queer-hirviöt + Veid (LIVE)
 
-- **20.15-21** Katariina Ylimalmi: Varkaan päiväkirja
+- **20.15-21** Katariina Yli-Malmi: Varkaan päiväkirja
 
 ## Lauantai 24.10.
 

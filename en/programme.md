@@ -18,7 +18,7 @@ Programs in English are marked below with **ENG**.
 
 - **19-20** Puoliuni Kustannus & Elbae Records: Veera Nivalainen, Daniil Nummi ja Kaisa Vahteristo – Queer-hirviöt + Veid (LIVE)
 
-- **20.15-21** Katariina Ylimalmi: Varkaan päiväkirja
+- **20.15-21** Katariina Yli-Malmi: Varkaan päiväkirja
 
 ## Saturday 24.10.
 
