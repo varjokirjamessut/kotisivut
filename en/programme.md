@@ -22,6 +22,10 @@ Programs in English are marked below with **ENG**.
 
 ## Saturday 24.10.
 
+### Rauhanasema
+
+- **14-18** Pyöräpaja's pop-up bicycle maintenance
+
 ### Naapuruustalo
 
 - **12-12.45** Laura Salama: Lintulan loruja

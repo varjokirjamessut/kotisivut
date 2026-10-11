@@ -14,11 +14,11 @@ Varjokirjamessut was first organized in the year 2010 as a one day affair at Rau
 
 This year, we are delighted to present **Varjokirjamessut as a three-day event from Friday to Sunday, 23–25 October 2026.** **The main venue is Rauhanasema** (Veturitori 3), with **additional programming taking place at Pasila Library** (Kellosilta 9) **as well as, and for the first time, at Naapuruustalo Pasila** (Topparikuja 2).
 
-The exhibitors' tables are located at Rauhanasema, where you'll find a diverse selection of books, comics, zines, artworks, and pamphlets. Panel discussions, talks, and other events will be organized at Pasila Library and Naapuruustalo Pasila.
+The exhibitors' tables are located at Rauhanasema and Naapuruustalo Pasila, where you'll find a diverse selection of books, comics, zines, artworks, and pamphlets. Panel discussions, talks, and other events will be organized at Pasila Library and Naapuruustalo Pasila.
 
 The book fair features dozens of authors, researchers, and artists whose work engages with the themes mentioned above. The programme offers wide-ranging discussions on literature, culture, and politics. Alongside traditional book presentations and author interviews, this year’s programme also includes workshops and performances.
 
-Visitors can also stop by Café Fredrika, a volunteer-run café at Rauhanasema serving delicious vegan food and treats. All proceeds support the café's activities, the hosting association, and peace work.
+Visitors can also stop by Café Fredrika on Saturday, a volunteer-run café at Rauhanasema serving delicious vegan food and treats. All proceeds support the café's activities, the hosting association, and peace work. On Sunday, the café will be run by Meidän Sali and Iso Tila collectives. 
 
 The event is organized by the Varjokirjamessut working group in collaboration with Aseistakieltäytyjäliitto (the Union of Conscientious Objectors). The fair is free of charge and run entirely by volunteers. Its aim is to create space for grassroots initiatives and activism while sustaining a tradition of anti-authoritarian gathering.
 

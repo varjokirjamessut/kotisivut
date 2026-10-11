@@ -11,11 +11,11 @@ Toivotamme sinut lämpimästi tervetulleeksi Helsingin Varjokirjamessuille, tutt
 
 Tänä vuonna meillä on ilo järjestää Varjokirjamessut **kolmipäiväisenä tapahtumana perjantaista sunnuntaihin 23.–25. lokakuuta 2026.** Varjokirjamessut **järjestetään Rauhanasemalla** (Veturitori 3) ja **ohjelmaa on tänä vuonna lisäksi Pasilan kirjastolla** (Kellosilta 9) **sekä ensimmäistä kertaa Naapuruustalo Pasilassa** (Topparikuja 2).
 
-Rauhanasemalla sijaitsevat tapahtuman näytteilleasettajien pöydät, joilta löytyy kirjoja, sarjakuvia, zinejä, taideteoksia ja pamfletteja. Keskustelutilaisuudet ja muut ohjelmanumerot puolestaan järjestetään Pasilan kirjastolla sekä Naapuruustalolla.
+Rauhanasemalla ja Naapuruustalo Pasilassa sijaitsevat tapahtuman näytteilleasettajien pöydät, joilta löytyy kirjoja, sarjakuvia, zinejä, taideteoksia ja pamfletteja. Keskustelutilaisuudet ja muut ohjelmanumerot puolestaan järjestetään Pasilan kirjastolla sekä Naapuruustalolla.
 
 Tapahtumassa esiintyy kymmeniä kirjailijoita, tutkijoita ja taiteilijoita, joiden teokset käsittelevät antiautoritääristä ja antikapitalistista arvomaailmaa ja muita edellä mainittuja teemoja. Ohjelmanumeroissa keskustellaan kirjallisuudesta, kulttuurista ja politiikasta laaja-alaisesti. Vuoden 2026 ohjelmassa on luvassa perinteisten kirjaesittelyjen ja haastattelujen lisäksi myös työpajoja ja performansseja.​​​​​​​​​​​​​​
 
-Rauhanasemalta löytyy myös vapaaehtoisten pyörittämä Rauhankahvila Fredrika vegaanisine herkkuineen. Kahvilan tuotot käytetään sen toiminnan, yhdistyksen ja rauhantyön kehittämiseen.
+Rauhanasemalta löytyy myös vapaaehtoisten pyörittämä Rauhankahvila Fredrika vegaanisine herkkuineen lauantaina. Kahvilan tuotot käytetään sen toiminnan, yhdistyksen ja rauhantyön kehittämiseen. Sunnuntaina kahvilan herkuista vastaa Meidän Sali ja Iso Tila -kollektiivit.
 
 Tapahtuman järjestää Varjokirjamessut-työryhmä yhteistyössä Aseistakieltäytyjäliiton kanssa. Tapahtuma on vapaaehtoisvoimin järjestetty ja kävijöille maksuton, emmekä tavoittele toiminnallamme voittoa. Tapahtuman tavoitteena on luoda tilaa ruohonjuuritason toimijoille ja toiminnalle sekä ylläpitää antiautoritäärisen yhteentulemisen jatkumoa.
 

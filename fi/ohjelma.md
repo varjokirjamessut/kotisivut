@@ -19,6 +19,10 @@ Alta löydät Varjokirjamessujen vuoden 2026 ohjelman. Ohjelma järjestetään v
 
 ## Lauantai 24.10.
 
+### Rauhanasema
+
+- **14-18** Pyöräpajan pop-up pyöräpiste
+
 ### Naapuruustalo
 
 - **12-12.45** Laura Salama: Lintulan loruja
