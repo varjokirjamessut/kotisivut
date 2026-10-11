@@ -47,11 +47,19 @@ Zapatistabaltica
 ## Naapuruustalo la 12.00-20.00 ja su 12.00-19.00
 
 ExtrA Distro
+
 KutiKuti
+
 Nihil Interit
+
 Puoliuni kustannus
+
 RabRab-press
+
 Tutkijaliitto
+
 Työ
+
 Utu-press
+
 Yhteismyyntipöytä
