@@ -124,7 +124,7 @@ Kieli: suomi ja englanti
 Kesto: 30 min / työpaja
 
 
-### Runouspaneeli: Unne Nirhamo, Susi Nousiainen & Jussi Romppainen
+### Runouspaneeli: Unne Nirhamo, Susi Nousiainen & Heikki Romppainen
 
 **Unne Nirhamo** on runoilija, taiteilija ja ympäristönhoidon ammattilainen. Hän työskentelee luonnonsuojelun ja ympäristön ennallistamisen  tehtävissä saaristomerellä. Nirhamo inspiroituu queer-ekologiasta, intersektionaalisesta feminismistä ja anarkismista.
 
