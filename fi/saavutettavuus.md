@@ -7,7 +7,7 @@ permalink: /fi/saavutettavuus
 
 # Saavutettavuus
 
-Alta löydät tapahtuman [turvallisemman tilan periaatteet](#turvallisemman-tilan-periaatteet).
+Täältä löydät tilojen saavutettavuustiedot. Alta löydät myös tapahtuman [turvallisemman tilan periaatteet](#turvallisemman-tilan-periaatteet).
 
 Ota yhteyttä sähköpostitse varjokirjamessut(at)riseup.net matalalla kynnyksellä, mikäli sinulla on kysyttävää tai tarvitset apua!
 
@@ -17,7 +17,7 @@ Näytteilleasettajat ja vegaaninen kahvila sijaitsevat Rauhanaseman salissa, jon
 
 ## Naapuruustalo Pasilan (osoite Topparikuja 2) saavutettavuustiedot
 
-Selvitämme vielä Naapuruustalon saavutettavuustietoja ja lisäämme ne tänne piakkoin. Naapuruustalo Pasilan omat yhteystiedot löydät myös [Naapuruustalon sivuilta](https://kalliola.fi/osallistu-toimintaamme/naapuruustalot-ja-kohtaamispaikat/naapuruustalo-pasila/).
+Pääsisäänkäynti Naapuruustalo Pasilaan sijaitsee Topparikujalla, katutason yläpuolella olevalla betonikannella. Ulko-oven edessä on luiska matalan, noin 3cm korkean kynnyksen päällä. Infopiste on sisällä heti ulko-oven jälkeen. Tilassa on esteetön, sukupuolineutraali WC. Naapuruustalo Pasilan omat yhteystiedot löydät [Naapuruustalon sivuilta](https://kalliola.fi/osallistu-toimintaamme/naapuruustalot-ja-kohtaamispaikat/naapuruustalo-pasila/).
 
 ## Pasilan kirjaston (osoite Kellosilta 9) saavuttettavuustiedot
 

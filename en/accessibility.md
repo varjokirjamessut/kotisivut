@@ -20,7 +20,6 @@ There is an accessible ramp at the main entrance. There is an accessible and gen
 
 ## Naapuruustalo Pasila ("Neighborhood House"), Topparikuja 2 
 
-Accessibility info:
 The entrance is accessible and there is an accessible and gender-neutral toilet.
 
 # Safer space guidelines
