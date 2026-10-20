@@ -95,6 +95,27 @@ Katariina Yli-Malmi on kuvataiteilija ja kirjoittaja, joka työskentelee valokuv
 
 ## Lauantai
 
+### Helsingin Pyöräpaja: Pyöräpiste
+
+Tule opettelemaan pyöränkorjausta ja huoltamaan polkupyöräsi Helsingin Pyöräpajan järjestämässä maksuttomassa tee se itse -työpajassa. Mobiilipaja tuo paikalle pyöränhuollossa yleisimmin tarvittavat työkalut, aineet ja osat. Vapaaehtoisemme opastavat ja auttavat tarvittaessa.
+
+Pyöräpaja on vapaaehtoisvoimin Haagassa (Kauppalantie 22) toimiva maksuton tila, jossa kuka tahansa voi korjata pyöräänsä. Paja pyörii tee se itse -ajatuksen ja yhdessä oppimisen periaatteilla. Pajalta löytyy työkalujen lisäksi käytettyjä varaosia.
+
+### Transtutkimuksen käsikirja & Rajoja purkava sosiaalityö
+
+Panelistit: Kuura Irni, Utu-Tuuli Jussila, Ilo Söderstöm, Kaarna Tuomenvirta. Haastattelija: Rakel Jylhä-Vuorio. ​​​​​​
+
+Kaarna Tuomenvirta on Helsingin yliopiston sukupuolentutkimuksen väitöskirjatutkija, jonka väitöskirja tarkastelee transihmisten kokemuksia suomalaisilla sukupuoli-identiteetin tutkimuspoliklinikoilla. Hänen tutkimuksensa asettuu transtutkimuksen alalle ja hyödyntää perinteisempien tutkimusmenetelmien lisäksi taiteellisia metodeja.
+
+Utu-Tuuli Jussila, FM, TaM, on valokuvataiteilija ja sukupuolentutkimuksen alan väitöskirjatutkija Helsingin yliopistolla.
+
+Ilo Söderström on sosiaalityön tutkijatohtori Tampereen yliopistolla. Hänen tutkimuksensa keskittyy sukupuolen ja seksuaalisuuden moninaisuuteen, normatiivisuuteen, sosiaalityön saavutettavuuteen ja sorronvastaisuuteen.
+
+Kuura Irni, VTT, dos., on sukupuolentutkimuksen vanhempi yliopistonlehtori Helsingin yliopistolla.
+
+Rakel Jylhä-Vuorio on väitöskirjatutkija Helsingin yliopiston oikeustieteellisessä tiedekunnassa. Hänen tutkimuksensa kehittää oikeuksista kieltäytymisen teoriaa transtutkimuksesta ja kriittisestä oikeusteoriasta ammentaen.​​​​​​​
+
+
 ### Laura Salama: Lintulan loruja
 
 Laura Salama lukee ääneen kirjaansa Lintulan loruja (Kulttuurivihkot 2026) perheen pienimmille. Isommat sisarukset ja aikuiset saavat osallistua lukemiseen.
@@ -176,6 +197,18 @@ Elli Salon kuva: Tero Vuorinen
 Junya Yimprasert is a Thai writer and labour-rights activist who has lived in political exile in Finland since 2010. For sixteen years she has documented the trafficking and exploitation of Thai berry pickers in the forests of Finland and Sweden, standing beside the workers through their fight for justice. Her book Bloodberries: Hidden Slavery in the World's Happiest Nations is the result — sixteen years of fieldwork, 800 documented cases, and the recruitment networks, companies and state systems named on the record.
 
 Yimprasert is International Coordinator of the Migrant Workers Union of Thailand.
+
+### Tere Vadén & Antti Salminen: Energia
+
+Energia on trilogia, joka sisältää teokset Energia ja kokemus (2013), Elo ja anergia (2018) ja Merkitys ja ala-aine (2024) sekä uuden kokoavan johdannon. Näissä naftologisissa tutkielmissa kysytään, miten energiakäyttö ja sen merkityksen unohtaminen on vaikuttanut modernin fossiilivetoisen maailman itseymmärrykseen.Trilogia kehittää filosofista eetosta ja sanastoa kohdata energia muunakin kuin resurssina: ajassa, kehoissa ja elossa. Näin se uudelleenarvioi läntisen, modernin ja hyötyä-kysyvän itseymmärryksen perustoja.
+
+Haastateltavana tilaisuudessa on Tere Vadén. Vadén on filosofian tutkija BIOS-tuitkimusyksiködssä. Hän on työssään tarkastellut politiikan ja kulttuurin materiaalisia ja henkisiä edellytyksiä, erityisesti energian kokemuksellisia ulottuvuuksia. Lisäksi hän on perehtynyt digitaalisen maailman potentiaalisiin kehityspolkuihin.
+
+### Aseistakieltäytyjäliitto: Lyhyt johdatus ilmastokriisiin ja militarismiin
+
+Paheneva globaali ekokatastrofi ja militarisaatio muodostavat yhä syvenevän noidankehän: ympäristökriisit lisäävät konflikteja, sodankäynti ja asevarustelu taas tuhoavat ympäristöä. Ilmasto-oikeudenmukaisuuden ja antimilitarismin puolesta toimivien liikkeiden on siis toimittava yhdessä.
+
+Aseistakieltäytyjäliiton vuonna 2026 suomeksi julkaisema vihkonen Lyhyt johdatus militarismiin ja ilmastokriisiin (alkuteos A Shirt Primer on Climate crises and Militarism / War Resisters' International, suom. Ida Korolainen & Meena Lindroos) esittelee sekä tapahtunutta tuhoa että sitä vastaan noussutta toimintaa useiden esimerkkien kautta. 
 
 ### taa.juus: halun näyttämö/takahuone
 

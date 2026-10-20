@@ -24,7 +24,7 @@ Programs in English are marked below with **ENG**.
 
 ### Rauhanasema
 
-- **14-18** Pyöräpaja's pop-up bicycle maintenance
+- **14-18** Helsinki Bike Kitchen's pop-up bicycle maintenance
 
 ### Naapuruustalo
 
@@ -72,6 +72,12 @@ Programs in English are marked below with **ENG**.
 
 
 # Programme descriptions
+
+## Helsinki Bike Kitchen: Pop-up bicycle maintenance
+
+Come learn how to repair and maintain your bike at a free do-it-yourself workshop organized by Helsinki Bike Kitchen. The mobile workshop will bring along the tools, supplies, and parts most commonly needed for bike maintenance. Our volunteers will guide you and help you as needed.
+
+Bike Kitchen is a free, volunteer-run space in Haaga (Kauppalantie 22) where anyone can repair their bike. The workshop operates on the principles of the “do-it-yourself” philosophy and collaborative learning.
 
 ## Workshop: The Weight of Letters on Paper
 Organizer: Kaide-kollektiivi
