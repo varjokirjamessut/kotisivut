@@ -58,8 +58,6 @@ RabRab-press
 
 Tutkijaliitto
 
-Työ
-
 Utu-press
 
 Yhteismyyntipöytä
