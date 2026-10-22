@@ -51,8 +51,6 @@ ExtrA Distro
 
 KutiKuti
 
-Nihil Interit
-
 Puoliuni kustannus
 
 RabRab-press
