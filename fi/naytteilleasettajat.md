@@ -25,8 +25,6 @@ Feministinen sarjakuvatoiminta
 
 Hämeen Anarkokustannus
 
-Kirjakahvila
-
 Mustan Kanin Kolo
 
 NCDK
