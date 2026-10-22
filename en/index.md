@@ -24,8 +24,6 @@ The event is organized by the Varjokirjamessut working group in collaboration wi
 
 Follow the Varjokirjamessut website and social media channels on Instagram and Facebook to stay up to date with the latest programme schedules and venue information. Part of the programme will also be livestreamed on YouTube.
 
-[varjokirjamessut.tumblr.com](https://varjokirjamessut.tumblr.com)
-
 [facebook.com/varjokirjamessut](https://facebook.com/varjokirjamessut)
 
 [instagram.com/varjokirjamessut](https://instagram.com/varjokirjamessut)

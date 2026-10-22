@@ -21,8 +21,6 @@ Tapahtuman järjestää Varjokirjamessut-työryhmä yhteistyössä Aseistakielt�
 
 Muistathan ottaa Varjokirjamessujen nettisivut sekä sosiaalisen median kanavat seurantaan, jotta pysyt ajan tasalla ohjelman aikatauluista sekä tapahtumapaikoista. Osa ohjelmasta striimataan tuttuun tapaan myös YouTubeen.
 
-[varjokirjamessut.tumblr.com](https://varjokirjamessut.tumblr.com)
-
 [facebook.com/varjokirjamessut](https://facebook.com/varjokirjamessut)
 
 [instagram.com/varjokirjamessut](https://instagram.com/varjokirjamessut)
